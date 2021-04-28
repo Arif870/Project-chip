@@ -1,0 +1,37 @@
+// We have followed SASS 7-1 pattern
+
+// Utils files load
+@import "../sass/utils/_functions";
+@import "../sass/utils/_helpers";
+@import "../sass/utils/_mixins";
+@import "../sass/utils/_variables";
+
+// Base files load
+@import "../sass/base/_reset";
+@import "../sass/base/_typography";
+
+//Components file load
+@import "../sass/components/_buttons";
+@import "../sass/components/_carousel";
+@import "../sass/components/_cover";
+@import "../sass/components/_dropdown";
+
+//Layout files load
+@import "../sass/layout/_footer";
+@import "../sass/layout/_forms";
+@import "../sass/layout/_grid";
+@import "../sass/layout/_header";
+@import "../sass/layout/_navigation";
+@import "../sass/layout/_sidebar";
+
+//all pages load
+@import "../sass/pages/_contact";
+@import "../sass/pages/_home";
+
+//Themes files load
+@import "../sass/themes/_admin";
+@import "../sass/themes/_theme";
+
+//Vendor files load
+@import "../sass/vendors/_bootstrap";
+@import "../sass/vendors/_jquery-ui";
