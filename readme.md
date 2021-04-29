@@ -12,3 +12,5 @@
 - Custom Js
 - SASS
 - SASS 7-1 Patterns
+
+`Start your journey now`
