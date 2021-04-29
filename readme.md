@@ -2,7 +2,7 @@
 
 ### Just download and stary your project
 
-<img width=400 src="assets/media/images/a.jpg">
+<img width=500 src="assets/media/images/a.jpg">
 
 ### Our Project freatures
 
