@@ -1,6 +1,6 @@
 ### Web designer and developers project pre-setting ready file. Just download and stary your project
 
-<img src="assets/media/images/a.jpg">
+<img style='width:200x !important' src="assets/media/images/a.jpg">
 
 ### Our Project freatures
 
